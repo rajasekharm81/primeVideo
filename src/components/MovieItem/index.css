@@ -1,0 +1,35 @@
+.ItemContainer {
+  height: 25vh;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.popupContainer {
+  background-color: white;
+  width: 60vw;
+  height: 60vh;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.PopupCloseButton {
+  align-self: flex-end;
+  justify-self: flex-start;
+  background-color: grey;
+  opacity: 0.9;
+  border: none;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 18px;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.rrr {
+  background-color: white;
+  height: 80vh;
+  width: 70vw;
+}
